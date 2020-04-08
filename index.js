@@ -2,7 +2,7 @@ const express = require('express');
 const routes = require('./src/routes');
 const cors = require('cors');
 const app = express();
-const porta= 3333;
+const porta = process.env.PORT || 3333
 /*
 app.use(cors({
     origin:'http://meuapp.com'
