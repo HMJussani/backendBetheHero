@@ -2,7 +2,7 @@
   "name": "bethehero",
   "version": "1.0.0",
   "description": "API demonstrativa para ser consumida pelo app BE THE HERO, desenvolvidos durante Omnistack 11 - Rocketseat;",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
