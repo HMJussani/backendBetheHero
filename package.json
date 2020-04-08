@@ -1,0 +1,18 @@
+{
+  "name": "bethehero",
+  "version": "1.0.0",
+  "description": "API demonstrativa para ser consumida pelo app BE THE HERO, desenvolvidos durante Omnistack 11 - Rocketseat;",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HMJussani",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "react-icons": "^3.9.0",
+    "sqlite3": "^4.1.1"
+  }
+}
